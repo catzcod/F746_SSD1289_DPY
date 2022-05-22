@@ -1,0 +1,2 @@
+# F746_SSD1289_DPY
+ STM32 USB Microphone NUCLEO-F746ZG with old SSD1289 LCD (STM32CubeIDE project)

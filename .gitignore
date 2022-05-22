@@ -1,0 +1,12 @@
+## Ignore temporary files, build results
+##
+## Get latest from us
+
+# Build results
+[Dd]ebug/**/*.d
+[Dd]ebug/**/*.o
+[Dd]ebug/**/*.su
+[Dd]ebug/*.elf
+[Dd]ebug/*.map
+[Dd]ebug/*.list
+[Dd]ebug/!objects.list
